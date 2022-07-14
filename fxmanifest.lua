@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Nyrone Network'
-description 'A car pack that Includes EMS and Police vehicle'
+description 'A car pack that Includes EMS and Police vehicle Total 28 vehicles to be exact'
 version '1.0.0'
 
 files {
