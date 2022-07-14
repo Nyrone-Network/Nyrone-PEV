@@ -1,6 +1,6 @@
 # Nyrone-PEV
 
-This Pack Includes EMS and Police vehicle used in Nyrone Network Server
+This Pack Includes EMS and Police vehicle used in Nyrone Network Server **Total 28 vehicles**
 - Discord For our Server [nyrone.net/discord](https://nyrone.net/discord)
 
 ### [LSPD]
