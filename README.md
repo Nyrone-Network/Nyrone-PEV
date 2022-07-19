@@ -1,6 +1,11 @@
 # Nyrone-PEV
 
 This Pack Includes EMS and Police vehicle used in Nyrone Network Server **Total 28 vehicles**
+#### Notice
+
+i did not create them i just found multiple Cop vehicles and packed them up to make 1 single resource some of them might not spawn or might make you game look weird
+folk the repo and fix it for you needs
+
 - Discord For our Server [nyrone.net/discord](https://nyrone.net/discord)
 
 ### [LSPD]
